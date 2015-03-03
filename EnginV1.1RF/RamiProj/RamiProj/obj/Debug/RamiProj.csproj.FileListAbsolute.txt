@@ -1,0 +1,76 @@
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\bin\Debug\RamiProj.exe
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\bin\Debug\RamiProj.pdb
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.csprojResolveAssemblyReference.cache
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Form1.resources
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Properties.Resources.resources
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.csproj.GenerateResource.Cache
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.exe
+c:\users\rami\documents\visual studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.pdb
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.PasswordManager.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.MainWIndow.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.Identity.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.FindInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.UpdateEmployeeID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.UpdateIDFields.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.DeleteEmp.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.JobAndDepartment.JobAndDepartment.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.JobAndDepartmentUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.JobAndDepartment.JobAndDepartmentUpdateForm.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.FixedSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.IncrementSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.SalaryMainWindow.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.DeleteForm.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.FindSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.PaymentInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.FindPaymentInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.JobAndDepartment.FindInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.UpdateSalaryByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.UpdateSalaryInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Salaries.DeletePayment.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Notes.FInd.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Notes.Notes.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Notes.ChooseIDToUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Notes.Update.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Notes.DeleteByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.JobAndDepartment.DeleteByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.exe
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.pdb
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\bin\Debug\RamiProj.exe
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\bin\Debug\RamiProj.pdb
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.csprojResolveAssemblyReference.cache
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.DeleteEmp.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.FindInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.Identity.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.UpdateEmployeeID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.UpdateIDFields.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Form1.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.JobAndDepartment.DeleteByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.JobAndDepartment.FindInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.JobAndDepartmentUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.JobAndDepartment.JobAndDepartment.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.JobAndDepartment.JobAndDepartmentUpdateForm.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.MainWIndow.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Notes.ChooseIDToUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Notes.DeleteByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Notes.FInd.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Notes.Notes.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Notes.Update.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.PasswordManager.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Properties.Resources.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.DeleteForm.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.DeletePayment.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.FindPaymentInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.FindSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.FixedSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.IncrementSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.PaymentInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.SalaryMainWindow.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.UpdateSalaryByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.Salaries.UpdateSalaryInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj - Copy\RamiProj\obj\Debug\RamiProj.csproj.GenerateResource.Cache
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Tasks.Tasks.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Tasks.DeleteTask.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Tasks.UpdateTask.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Tasks.UpdateInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.Tasks.FindInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\Debug\RamiProj.EmployeeIdentity.Report.resources

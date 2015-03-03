@@ -1,0 +1,769 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE25258F-2A0A-4E81-AF04-E6CBB9F1E44D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RamiProj</RootNamespace>
+    <AssemblyName>RamiProj</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About\About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About\About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\DeleteAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\DeleteAccount.Designer.cs">
+      <DependentUpon>DeleteAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authentication\UsersAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentication\UsersAccounts.Designer.cs">
+      <DependentUpon>UsersAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseRolesList.cs" />
+    <Compile Include="EmployeeIdentity\DeleteEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdentity\DeleteEmp.Designer.cs">
+      <DependentUpon>DeleteEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeIdentity\FindInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdentity\FindInformation.Designer.cs">
+      <DependentUpon>FindInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeIdentity\Identity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdentity\Identity.Designer.cs">
+      <DependentUpon>Identity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeIdentity\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdentity\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeIdentity\UpdateEmployeeID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdentity\UpdateEmployeeID.Designer.cs">
+      <DependentUpon>UpdateEmployeeID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeIdentity\UpdateIDFields.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdentity\UpdateIDFields.Designer.cs">
+      <DependentUpon>UpdateIDFields.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRating\Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRating\Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRating\EmployeeRating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRating\EmployeeRating.Designer.cs">
+      <DependentUpon>EmployeeRating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRating\Find.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRating\Find.Designer.cs">
+      <DependentUpon>Find.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRating\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRating\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRating\Select2Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRating\Select2Update.Designer.cs">
+      <DependentUpon>Select2Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRating\Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeRating\Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpRatingReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmpRatingReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FixedSalaryReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FixedSalaryReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FullCrystalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FullCrystalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FullReport\FullReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FullReport\FullReport.Designer.cs">
+      <DependentUpon>FullReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IdentityRep.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IdentityRep.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="JobAndDepartment\DeleteByID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAndDepartment\DeleteByID.Designer.cs">
+      <DependentUpon>DeleteByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAndDepartment\FindInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAndDepartment\FindInfo.Designer.cs">
+      <DependentUpon>FindInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAndDepartment\JobAndDepartmentUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAndDepartment\JobAndDepartmentUpdate.Designer.cs">
+      <DependentUpon>JobAndDepartmentUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAndDepartment\JobAndDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAndDepartment\JobAndDepartment.Designer.cs">
+      <DependentUpon>JobAndDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JobAndDepartment\JobAndDepartmentUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JobAndDepartment\JobAndDepartmentUpdateForm.Designer.cs">
+      <DependentUpon>JobAndDepartmentUpdateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListOfAllCountries.cs" />
+    <Compile Include="ListOfCurencies.cs" />
+    <Compile Include="ListOfJobTitles.cs" />
+    <Compile Include="MainWIndow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWIndow.Designer.cs">
+      <DependentUpon>MainWIndow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notes\ChooseIDToUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notes\ChooseIDToUpdate.Designer.cs">
+      <DependentUpon>ChooseIDToUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notes\DeleteByID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notes\DeleteByID.Designer.cs">
+      <DependentUpon>DeleteByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notes\FInd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notes\FInd.Designer.cs">
+      <DependentUpon>FInd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notes\Notes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notes\Notes.Designer.cs">
+      <DependentUpon>Notes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notes\Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notes\Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordManager.Designer.cs">
+      <DependentUpon>PasswordManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentsReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentsReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\DeleteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\DeleteForm.Designer.cs">
+      <DependentUpon>DeleteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\DeletePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\DeletePayment.Designer.cs">
+      <DependentUpon>DeletePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\FindPaymentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\FindPaymentInfo.Designer.cs">
+      <DependentUpon>FindPaymentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\FindSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\FindSalary.Designer.cs">
+      <DependentUpon>FindSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\FixedSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\FixedSalary.Designer.cs">
+      <DependentUpon>FixedSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\FixedSalaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\FixedSalaryReport.Designer.cs">
+      <DependentUpon>FixedSalaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\IncrementSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\IncrementSalary.Designer.cs">
+      <DependentUpon>IncrementSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\PaymentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\PaymentInfo.Designer.cs">
+      <DependentUpon>PaymentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\PaymentReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\PaymentReport.Designer.cs">
+      <DependentUpon>PaymentReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\SalaryMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\SalaryMainWindow.Designer.cs">
+      <DependentUpon>SalaryMainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\UpdateSalaryByID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\UpdateSalaryByID.Designer.cs">
+      <DependentUpon>UpdateSalaryByID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Salaries\UpdateSalaryInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salaries\UpdateSalaryInfo.Designer.cs">
+      <DependentUpon>UpdateSalaryInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServerRolesList.cs" />
+    <Compile Include="SkillsAndEducation1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SkillsAndEducation1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Find.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Find.Designer.cs">
+      <DependentUpon>Find.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillsAndEducation\SelectToUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\SelectToUpdate.Designer.cs">
+      <DependentUpon>SelectToUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillsAndEducation\SkillsAndEducation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\SkillsAndEducation.Designer.cs">
+      <DependentUpon>SkillsAndEducation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SkillsAndEducation\Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\DeleteTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\DeleteTask.Designer.cs">
+      <DependentUpon>DeleteTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\FindInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\FindInformation.Designer.cs">
+      <DependentUpon>FindInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\Tasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\Tasks.Designer.cs">
+      <DependentUpon>Tasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\UpdateInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\UpdateInformation.Designer.cs">
+      <DependentUpon>UpdateInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\UpdateTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\UpdateTask.Designer.cs">
+      <DependentUpon>UpdateTask.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingHours1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WorkingHours1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingHours\Find.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\Find.Designer.cs">
+      <DependentUpon>Find.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingHours\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingHours\Select2Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\Select2Update.Designer.cs">
+      <DependentUpon>Select2Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingHours\Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingHours\WorkingHours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkingHours\WorkingHours.Designer.cs">
+      <DependentUpon>WorkingHours.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About\About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\DeleteAccount.resx">
+      <DependentUpon>DeleteAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authentication\UsersAccounts.resx">
+      <DependentUpon>UsersAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdentity\DeleteEmp.resx">
+      <DependentUpon>DeleteEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdentity\FindInformation.resx">
+      <DependentUpon>FindInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdentity\Identity.resx">
+      <DependentUpon>Identity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdentity\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdentity\UpdateEmployeeID.resx">
+      <DependentUpon>UpdateEmployeeID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdentity\UpdateIDFields.resx">
+      <DependentUpon>UpdateIDFields.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRating\Delete.resx">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRating\EmployeeRating.resx">
+      <DependentUpon>EmployeeRating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRating\Find.resx">
+      <DependentUpon>Find.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRating\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRating\Select2Update.resx">
+      <DependentUpon>Select2Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRating\Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpRatingReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EmpRatingReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FixedSalaryReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FixedSalaryReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FullCrystalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FullCrystalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FullReport\FullReport.resx">
+      <DependentUpon>FullReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IdentityRep.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IdentityRep.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAndDepartment\DeleteByID.resx">
+      <DependentUpon>DeleteByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAndDepartment\FindInfo.resx">
+      <DependentUpon>FindInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAndDepartment\JobAndDepartmentUpdate.resx">
+      <DependentUpon>JobAndDepartmentUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAndDepartment\JobAndDepartment.resx">
+      <DependentUpon>JobAndDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JobAndDepartment\JobAndDepartmentUpdateForm.resx">
+      <DependentUpon>JobAndDepartmentUpdateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWIndow.resx">
+      <DependentUpon>MainWIndow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notes\ChooseIDToUpdate.resx">
+      <DependentUpon>ChooseIDToUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notes\DeleteByID.resx">
+      <DependentUpon>DeleteByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notes\FInd.resx">
+      <DependentUpon>FInd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notes\Notes.resx">
+      <DependentUpon>Notes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notes\Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordManager.resx">
+      <DependentUpon>PasswordManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentsReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PaymentsReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\DeleteForm.resx">
+      <DependentUpon>DeleteForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\DeletePayment.resx">
+      <DependentUpon>DeletePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\FindPaymentInfo.resx">
+      <DependentUpon>FindPaymentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\FindSalary.resx">
+      <DependentUpon>FindSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\FixedSalary.resx">
+      <DependentUpon>FixedSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\FixedSalaryReport.resx">
+      <DependentUpon>FixedSalaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\IncrementSalary.resx">
+      <DependentUpon>IncrementSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\PaymentInfo.resx">
+      <DependentUpon>PaymentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\PaymentReport.resx">
+      <DependentUpon>PaymentReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\SalaryMainWindow.resx">
+      <DependentUpon>SalaryMainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\UpdateSalaryByID.resx">
+      <DependentUpon>UpdateSalaryByID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salaries\UpdateSalaryInfo.resx">
+      <DependentUpon>UpdateSalaryInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SkillsAndEducation1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation\Delete.resx">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation\Find.resx">
+      <DependentUpon>Find.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation\SelectToUpdate.resx">
+      <DependentUpon>SelectToUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation\SkillsAndEducation.resx">
+      <DependentUpon>SkillsAndEducation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SkillsAndEducation\Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\DeleteTask.resx">
+      <DependentUpon>DeleteTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\FindInformation.resx">
+      <DependentUpon>FindInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\Tasks.resx">
+      <DependentUpon>Tasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\UpdateInformation.resx">
+      <DependentUpon>UpdateInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\UpdateTask.resx">
+      <DependentUpon>UpdateTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WorkingHours1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours\Delete.resx">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours\Find.resx">
+      <DependentUpon>Find.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours\Select2Update.resx">
+      <DependentUpon>Select2Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours\Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingHours\WorkingHours.resx">
+      <DependentUpon>WorkingHours.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

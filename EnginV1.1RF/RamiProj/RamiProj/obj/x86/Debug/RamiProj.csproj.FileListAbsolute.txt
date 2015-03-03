@@ -1,0 +1,242 @@
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe.config
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\bin\x86\Debug\RamiProj.pdb
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csprojResolveAssemblyReference.cache
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.DeleteEmp.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.FindInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Identity.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Report.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateEmployeeID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateIDFields.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Form1.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.DeleteByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.FindInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartmentUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartment.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartmentUpdateForm.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.MainWIndow.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.ChooseIDToUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.DeleteByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.FInd.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Notes.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Update.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.PasswordManager.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Properties.Resources.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeleteForm.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeletePayment.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindPaymentInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalaryReport.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.IncrementSalary.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentReport.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.SalaryMainWindow.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryByID.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryInfo.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Delete.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Find.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Report.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SelectToUpdate.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SkillsAndEducation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Update.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.DeleteTask.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.FindInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.Tasks.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateInformation.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateTask.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Delete.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Find.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Report.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Select2Update.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Update.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.WorkingHours.resources
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csproj.GenerateResource.Cache
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.exe
+C:\Users\RAMI\Documents\Visual Studio 2013\Projects\RamiProj\RamiProj\obj\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe.config
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.exe
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csprojResolveAssemblyReference.cache
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Authentication.DeleteAccount.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Authentication.UsersAccounts.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.DeleteEmp.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.FindInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Identity.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateEmployeeID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateIDFields.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Form1.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.DeleteByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.FindInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartmentUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartment.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartmentUpdateForm.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.MainWIndow.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.ChooseIDToUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.DeleteByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.FInd.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Notes.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.PasswordManager.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Properties.Resources.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeleteForm.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeletePayment.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindPaymentInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalaryReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.IncrementSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.SalaryMainWindow.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SelectToUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SkillsAndEducation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.DeleteTask.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.FindInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.Tasks.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateTask.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Select2Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.WorkingHours.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.04RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csproj.GenerateResource.Cache
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe.config
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.exe
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csprojResolveAssemblyReference.cache
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.About.About.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Authentication.DeleteAccount.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Authentication.UsersAccounts.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.DeleteEmp.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.FindInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Identity.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateEmployeeID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateIDFields.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Form1.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.FullReport.FullReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.DeleteByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.FindInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartmentUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartment.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartmentUpdateForm.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.MainWIndow.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.ChooseIDToUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.DeleteByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.FInd.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Notes.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.PasswordManager.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Properties.Resources.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Resource1.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeleteForm.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeletePayment.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindPaymentInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalaryReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.IncrementSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.SalaryMainWindow.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SelectToUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SkillsAndEducation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.DeleteTask.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.FindInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.Tasks.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateTask.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Select2Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.WorkingHours.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.09RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csproj.GenerateResource.Cache
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe.config
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.exe
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.exe
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\bin\x86\Debug\RamiProj.pdb
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csprojResolveAssemblyReference.cache
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.About.About.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Authentication.DeleteAccount.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Authentication.UsersAccounts.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.DeleteEmp.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.FindInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Identity.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateEmployeeID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeIdentity.UpdateIDFields.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeRating.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeRating.EmployeeRating.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeRating.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeRating.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeRating.Select2Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.EmployeeRating.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Form1.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.FullReport.FullReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.DeleteByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.FindInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartmentUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartment.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.JobAndDepartment.JobAndDepartmentUpdateForm.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.MainWIndow.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.ChooseIDToUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.DeleteByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.FInd.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Notes.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Notes.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.PasswordManager.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Properties.Resources.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Resource1.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeleteForm.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.DeletePayment.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindPaymentInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FindSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.FixedSalaryReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.IncrementSalary.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.PaymentReport.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.SalaryMainWindow.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryByID.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Salaries.UpdateSalaryInfo.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SelectToUpdate.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.SkillsAndEducation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.SkillsAndEducation.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.DeleteTask.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.FindInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.Tasks.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateInformation.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.Tasks.UpdateTask.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Delete.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Find.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Report.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Select2Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.Update.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.WorkingHours.WorkingHours.resources
+D:\Company\MyDevelopedProjects\RamiProj\EnginV1.1RF\RamiProj\RamiProj\obj\x86\Debug\RamiProj.csproj.GenerateResource.Cache
